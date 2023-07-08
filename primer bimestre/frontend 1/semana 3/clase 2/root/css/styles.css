@@ -1,0 +1,42 @@
+header {
+        background-image: url('../img/gatos.jpg');
+        align-items: center;
+        text-align: center;
+    } 
+.foto {
+    width: 120px;
+    height: 147px;
+}
+.fa-address-card {
+    color:  rgba(0, 0, 0, 0.7);
+    align-items: center;
+}
+#titulo {
+    text-align: center;
+    background-color: #c4c4c4;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #005677;
+}
+.subtitulo {
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.negrita {
+    font-weight: bold ;
+    font-style: italic;
+    text-align: left;
+    font-family: sans-serif;
+}
+.espacio-blanco{
+    white-space: pre;
+}
+footer {
+    background-color: #005677 ;
+    text-align: center;
+    color: white;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fa-instagram, .fa-linkedin, .fa-github {
+    color: white;
+}

@@ -1,0 +1,31 @@
+header {
+        background-color: #E5E5E5;
+        align-items: center;
+        text-align: center;
+    } 
+#titulo {
+    text-align: center;
+    background-color: #c4c4c4;
+    font-family: "Times New Roman";
+    color: #005677;
+}
+.subtitulo {
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family: "Times New Roman";
+}
+.negrita {
+    font-weight: bold ;
+    font-style: italic;
+    text-align: left;
+    font-family: "Times New Roman";
+}
+.espacio-blanco{
+    white-space: pre;
+}
+footer {
+    background-color: #005677 ;
+    text-align: center;
+    color: white;
+    font-family: "Times New Roman";
+}

@@ -1,0 +1,2 @@
+git bash es la consola que se intala en windows para dar comandos igual que en linux y mac,
+y vscode es un entorno de desarrollo
